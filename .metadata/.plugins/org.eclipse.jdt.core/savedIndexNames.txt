@@ -1,0 +1,4 @@
+INDEX VERSION 1.127+/home/tricia/week08-ListViews-Adapters/.metadata/.plugins/org.eclipse.jdt.core
+672104785.index
+4234474479.index
+1701683797.index
